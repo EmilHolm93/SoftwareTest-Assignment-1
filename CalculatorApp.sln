@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp.Test.Unit", "Calculator.Test.Unit\CalculatorApp.Test.Unit.csproj", "{C14057A8-5E9F-4C04-9003-05C89391E62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{8D5ED53C-B4EE-4337-8B8F-D3D8379CDFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp.Math", "CalculatorApp.Math\CalculatorApp.Math.csproj", "{537C5022-C508-4D8B-9FEF-C4126EB67CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14057A8-5E9F-4C04-9003-05C89391E62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14057A8-5E9F-4C04-9003-05C89391E62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14057A8-5E9F-4C04-9003-05C89391E62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14057A8-5E9F-4C04-9003-05C89391E62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5ED53C-B4EE-4337-8B8F-D3D8379CDFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5ED53C-B4EE-4337-8B8F-D3D8379CDFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5ED53C-B4EE-4337-8B8F-D3D8379CDFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5ED53C-B4EE-4337-8B8F-D3D8379CDFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537C5022-C508-4D8B-9FEF-C4126EB67CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537C5022-C508-4D8B-9FEF-C4126EB67CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537C5022-C508-4D8B-9FEF-C4126EB67CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537C5022-C508-4D8B-9FEF-C4126EB67CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
